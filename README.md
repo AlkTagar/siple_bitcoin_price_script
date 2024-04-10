@@ -1,2 +1,2 @@
-# siple_bitcoin_price_script
+# siple bitcoin price script
 Собирает цены на биткоин по дням за установленный срок
